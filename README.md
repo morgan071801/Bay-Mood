@@ -9,8 +9,15 @@
   
   <p> Visual Inspiration Research </p>
   
-  <p> I found the below helpful in my research because the emotional questions that the device will ask about are correlated to the inside out emotions: anger, joy, sadness, disgust and
-  ![inside_out_emotions-03](https://user-images.githubusercontent.com/81450987/160723742-00e8f88a-6955-428d-a291-7eec939abdea.png)
+  <p> I found the below helpful in my research because the emotional questions that the device will ask about are correlated to the inside out emotions: anger, joy, sadness, disgust and fear </p>
+ 
+![inside_out_emotions-03](https://user-images.githubusercontent.com/81450987/160726503-c850c2c0-4a85-4cfa-8bb3-bea591bec295.png)
+
+<p> </p>
+<p> Tracking these standard emotions will serve as a basis for doctors and users to make diagnosis </p>
+
+<p> In addition to doing more research on the theme of my project, I did more research on what the actual device will look like and how I will make it. I decided that using the Google AI Voice Box was the most feasible choice with my time limitations and that I would 3D print parts to make a case for it.</p>
+![raspberry_pi_hero-boke](https://user-images.githubusercontent.com/81450987/160727485-ae2de6ff-2e44-4610-83e7-0cc231664895.jpg)
 
   
   <p> 2. Order, Create and secure all Physical Materials</p>
