@@ -1,5 +1,6 @@
 # Bay-Mood Milestones
-<p>Milestone 1 Goals:</p>
+
+# Milestone 1 Goals
 <p>1. Finalize Project Description</p>
 <p></p>
 <p> The first major step in my Milestone consisted of doing more research to truly define the project instead of having
@@ -42,4 +43,15 @@ materials. I was hoping to have everything printed by March 30th, but the printi
 <p> The decision tree help me set a basis for how the user will interact with the device acoustically and then for my next steps as I build the actual device I plan to create a chart that shows how the device will actually log that data. </p>
 <img width="982" alt="dtree2" src="https://user-images.githubusercontent.com/81450987/160728317-3d97c924-1470-4eab-b12e-98e82b7a807d.png">
 <img width="982" alt="dtree" src="https://user-images.githubusercontent.com/81450987/160728318-bd3bbee8-08ca-459e-92a4-76fcfa58d01d.png">
+
+
+
+# Milestone 2 Goals
+List the progress you wanted to make and what you accomplished. 
+What did you do and how many hours did you work on your portion?
+What was the hardest part? How did you overcome it? What did you learn?
+List the materials (readings, videos, etc.) you used in your work.
+List specific questions (3-5) you have about your game that you would like to discuss with the class. These can be about a tech issue, requests for feedback on art, story, etc.
+List specific questions for your professor. What tutorials or examples would you like the professor to share?
+
 
