@@ -67,7 +67,7 @@ https://user-images.githubusercontent.com/81450987/163078449-d72f6a12-b83c-44cd-
 ![IMG_6287](https://user-images.githubusercontent.com/81450987/163080454-4a919621-7131-4827-809c-dc9a0d329607.jpeg)
 ![IMG_6288](https://user-images.githubusercontent.com/81450987/163080471-58abc129-0502-47fa-8ad8-14454e76a032.jpeg)
 ![IMG_6289](https://user-images.githubusercontent.com/81450987/163080485-358786f7-7aff-48dc-8831-19b755bd73af.jpeg)
-![IMG_6331](https://user-images.githubusercontent.com/81450987/163081266-39e42961-c95f-401a-b18e-225dc18c4f74.JPG)
+
 
 
 <p> What was the hardest part? How did you overcome it? What did you learn? </p>
@@ -78,7 +78,7 @@ https://user-images.githubusercontent.com/81450987/163078449-d72f6a12-b83c-44cd-
   are so small. Therefore the original screwdriver I used was too big and I actually barely stripped bart of the screws, but ultimately
   I was able to find a smaller screwdriver thanks to Dr. Mundy. </p>
 
-
+![IMG_6331](https://user-images.githubusercontent.com/81450987/163081266-39e42961-c95f-401a-b18e-225dc18c4f74.JPG)
 <p> Additionally, I relied on a lot of tutorials and question forms to help me troubleshoot through these problems. </p>
 
 
