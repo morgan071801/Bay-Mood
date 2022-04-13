@@ -63,7 +63,7 @@ https://user-images.githubusercontent.com/81450987/163078449-d72f6a12-b83c-44cd-
   everything was hooked up correctly including the wifi and sound system</p>
   
   <p> Overall between class time and outside of class time I probably spent around 11 hours working towards milestone 2 </p>
-![IMG_6327](https://user-images.githubusercontent.com/81450987/163079664-c3fe1233-81c2-41e9-a8f3-db3260ba3c78.JPG)
+https://user-images.githubusercontent.com/81450987/163079664-c3fe1233-81c2-41e9-a8f3-db3260ba3c78.JPG)
 
 
 What was the hardest part? How did you overcome it? What did you learn?
