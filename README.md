@@ -47,8 +47,27 @@ materials. I was hoping to have everything printed by March 30th, but the printi
 
 
 # Milestone 2 Goals
-List the progress you wanted to make and what you accomplished. 
-What did you do and how many hours did you work on your portion?
+<p> 1. Progress I wanted to make and what you accomplished:</p>
+<p> For milestone 2 I wanted to get the internal speaker built and make sure everything works and I was able to do this </p>
+
+
+https://user-images.githubusercontent.com/81450987/163078449-d72f6a12-b83c-44cd-b335-52a45a42ecef.mov
+
+
+
+<p> 2. What did you do and how many hours did you work </p>
+<p> I first put all the pieces together by connecting pieces such as the voice bonnett and raspberry pi. Additionally I made sure to check the
+  connections and tighten screws </p>
+  <p> Additionally, I had to insert speaker wires into the rasbperry pi </p>
+  <p> After I built the internal part of the speaker I had to gather a mouse, monitor and hdmi cabels to ssh into the rasbperry pi and make sure
+  everything was hooked up correctly including the wifi and sound system</p>
+  
+  <p> Overall between class time and outside of class time I probably spent around 11 hours working towards milestone 2 </p>
+![IMG_6327](https://user-images.githubusercontent.com/81450987/163079512-2ee99066-682c-4df3-ab82-c57e594b0f67.JPG)
+![Up![IMG_6287](https://user-images.githubusercontent.com/81450987/163079527-cadcd0bf-f009-4ec1-a595-67618c1e3352.jpeg)
+loading IMG_6289.jpeg…]()
+![IMG_6288](https://user-images.githubusercontent.com/81450987/163079537-47a5227d-b22a-4a48-bc28-4e02e3c8c697.jpeg)
+
 What was the hardest part? How did you overcome it? What did you learn?
 List the materials (readings, videos, etc.) you used in your work.
 List specific questions (3-5) you have about your game that you would like to discuss with the class. These can be about a tech issue, requests for feedback on art, story, etc.
