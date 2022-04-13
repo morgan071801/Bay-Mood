@@ -63,12 +63,21 @@ https://user-images.githubusercontent.com/81450987/163078449-d72f6a12-b83c-44cd-
   everything was hooked up correctly including the wifi and sound system</p>
   
   <p> Overall between class time and outside of class time I probably spent around 11 hours working towards milestone 2 </p>
-https://user-images.githubusercontent.com/81450987/163079664-c3fe1233-81c2-41e9-a8f3-db3260ba3c78.JPG)
+
+![IMG_6287](https://user-images.githubusercontent.com/81450987/163080454-4a919621-7131-4827-809c-dc9a0d329607.jpeg)
+![IMG_6288](https://user-images.githubusercontent.com/81450987/163080471-58abc129-0502-47fa-8ad8-14454e76a032.jpeg)
+![IMG_6289](https://user-images.githubusercontent.com/81450987/163080485-358786f7-7aff-48dc-8831-19b755bd73af.jpeg)
 
 
-What was the hardest part? How did you overcome it? What did you learn?
-List the materials (readings, videos, etc.) you used in your work.
-List specific questions (3-5) you have about your game that you would like to discuss with the class. These can be about a tech issue, requests for feedback on art, story, etc.
-List specific questions for your professor. What tutorials or examples would you like the professor to share?
+<p> What was the hardest part? How did you overcome it? What did you learn? </p>
+
+<p> I ran into a lot of challenges in the beginning. For one I did not order the right cabels for the mini pi I purchased, but
+  I overcame this challenge by using my bigger raspberry pi. Additionally, my speaker was not working in the beginning due to the 
+  below paper that I had on my raspberry pi. I also had quite a bit of difficulty actually connecting the speaker because the ports
+  are so small. Therefore the original screwdriver I used was too big and I actually barely stripped bart of the screws, but ultimately
+  I was able to find a smaller screwdriver thanks to Dr. Mundy. </p>
+![IMG_6331](https://user-images.githubusercontent.com/81450987/163081160-fd74520e-c9f1-4892-937d-56f48791b00a.JPG)
+
+<p> Additionally, I relied on a lot of tutorials and question forms to help me troubleshoot through these problems. </p>
 
 
