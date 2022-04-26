@@ -74,14 +74,16 @@ https://user-images.githubusercontent.com/81450987/163078449-d72f6a12-b83c-44cd-
 <p> I wanted to implement the google assistant API which I was able to. Implementing the Google API was a big step because now </p>
 <p> I can play games on my speaker and it works just like a google home however, I was not able to get past uniqifying the speaker to 
   serve as a journal. </p>
- <p> because my idea requires so many APIs I have run into a few rabbit hole errors which feel impossible to get past. </p>
+  
+  <p> See below all of the amazing progress I have made </p>
+  
+ <p> Howeverbecause my idea required so many APIs I ran into a few rabbit hole errors which felt impossible to get past. </p>
  <p> I have posted these below </p>
  
  <p> Despite following the tutorials below using Dialogflow I was not able to get the front end connected to the back end. </p>
  
   <img width="358" alt="Screen Shot 2022-04-26 at 2 10 21 PM" src="https://user-images.githubusercontent.com/81450987/165364766-3b08e201-fc1b-42ad-aa6f-0169b0c91809.png">
 <img width="358" alt="Screen Shot 2022-04-26 at 2 10 08 PM" src="https://user-images.githubusercontent.com/81450987/165364779-4409784b-7551-4f80-9e75-4884d93aa3b6.png">
-<img width="1440" alt="Screen Shot 2022-04-26 at 2 09 59 PM" src="https://user-images.githubusercontent.com/81450987/165364786-87ccafdb-0885-4e9e-b08c-6b26c554ce59.png">
 
 <p> I followed the below tutorial step by step and even implemented their code in a trial run, but for some reason I concluded that it must be a davidson domain error</p>
 https://www.youtube.com/watch?v=Ov3CDTxZRQc&list=PLih0lxXDq6wlLAtdRWMimkpybSQetwluH&index=8&t=217s
@@ -89,6 +91,11 @@ https://www.youtube.com/watch?v=5r4AAIfe4Rw&list=PLih0lxXDq6wlLAtdRWMimkpybSQetw
 https://www.youtube.com/watch?v=UmMRW3kG738&list=PLih0lxXDq6wlLAtdRWMimkpybSQetwluH&index=9&t=177s
 https://www.youtube.com/watch?v=5-UbL6xg-8U&list=PLih0lxXDq6wlLAtdRWMimkpybSQetwluH&index=10
 https://www.youtube.com/watch?v=FVPRAnJ5jRk&list=PLih0lxXDq6wlLAtdRWMimkpybSQetwluH&index=11
+
+<p> Below is my dialogflow errors </p>
+
+<p> Additionally, I ran into the below API errors <p>
+  
 <p> Therefore, I have decided to simplify my project into a voice time capsule/voice journaling device </p>
 
 
@@ -99,7 +106,5 @@ https://www.youtube.com/watch?v=FVPRAnJ5jRk&list=PLih0lxXDq6wlLAtdRWMimkpybSQetw
 
 <p> . </p>
 
-![IMG_6331](https://user-images.githubusercontent.com/81450987/163081266-39e42961-c95f-401a-b18e-225dc18c4f74.JPG)
-<p> Additionally, I relied on a lot of tutorials and question forms to help me troubleshoot through these problems. </p>
 
 
