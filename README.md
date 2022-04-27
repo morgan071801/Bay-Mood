@@ -75,7 +75,7 @@ https://user-images.githubusercontent.com/81450987/163078449-d72f6a12-b83c-44cd-
 <p> I can play games on my speaker and it works just like a google home however, I was not able to get past uniqifying the speaker to 
   serve as a journal. </p>
   
-  <p> See below all of the amazing progress I have made </p>
+<p> The videos were to big to include in my GITHUB so see google drive link: </p>
   
  <p> Howeverbecause my idea required so many APIs I ran into a few rabbit hole errors which felt impossible to get past. </p>
  <p> I have posted these below </p>
