@@ -74,11 +74,10 @@ https://user-images.githubusercontent.com/81450987/163078449-d72f6a12-b83c-44cd-
 <p> I wanted to implement the google assistant API which I was able to. Implementing the Google API was a big step because now </p>
 <p> I can play games on my speaker and it works just like a google home however, I was not able to get past uniqifying the speaker to 
   serve as a journal. </p>
+ 
   
-<p> The videos were to big to include in my GITHUB so see google drive link: </p>
-  
- <p> Howeverbecause my idea required so many APIs I ran into a few rabbit hole errors which felt impossible to get past. </p>
- <p> I have posted these below </p>
+ <p> However because my idea required so many APIs I ran into a few rabbit hole errors which felt impossible to get past. </p>
+
  
  <p> Despite following the tutorials below using Dialogflow I was not able to get the front end connected to the back end. </p>
  
@@ -92,19 +91,19 @@ https://www.youtube.com/watch?v=UmMRW3kG738&list=PLih0lxXDq6wlLAtdRWMimkpybSQetw
 https://www.youtube.com/watch?v=5-UbL6xg-8U&list=PLih0lxXDq6wlLAtdRWMimkpybSQetwluH&index=10
 https://www.youtube.com/watch?v=FVPRAnJ5jRk&list=PLih0lxXDq6wlLAtdRWMimkpybSQetwluH&index=11
 
-<p> Below is my dialogflow errors </p>
+
 
 <p> Additionally, I ran into the below API errors <p>
   
 <p> Therefore, I have decided to simplify my project into a voice time capsule/voice journaling device </p>
+ 
+<p> The videos were to big to include in my GITHUB so see google drive link: </p>
 
 
-
-
+https://drive.google.com/drive/folders/1CyBkyJU6cqTkLMbi-bIq_0T_YEizs3gj?usp=sharing
 
 <p> What was the hardest part? How did you overcome it? What did you learn? </p>
 
-<p> . </p>
-
+<p> I overcame my API challenges due to the Davidson Domain by reestablising my project and reconstructing. </p>
 
 
