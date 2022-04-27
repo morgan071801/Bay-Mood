@@ -119,3 +119,4 @@ https://drive.google.com/drive/folders/1CyBkyJU6cqTkLMbi-bIq_0T_YEizs3gj?usp=sha
 <img width="1372" alt="Screen Shot 2022-04-27 at 8 24 50 AM" src="https://user-images.githubusercontent.com/81450987/165517725-4c34086d-4e90-4edc-b484-7cc039128469.png">
 <img width="1372" alt="Screen Shot 2022-04-27 at 8 24 55 AM" src="https://user-images.githubusercontent.com/81450987/165517727-eb79de37-1878-49ae-9cc6-f88a4924cca3.png">
 
+<p> Hours Spent: I spent at least 15 hours working towards Milestone 3 (Coding, Debugging, Installing Packages, Constructing Dialogflow ect.) </p>
