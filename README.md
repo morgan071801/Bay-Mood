@@ -106,4 +106,16 @@ https://drive.google.com/drive/folders/1CyBkyJU6cqTkLMbi-bIq_0T_YEizs3gj?usp=sha
 
 <p> I overcame my API challenges due to the Davidson Domain by reestablising my project and reconstructing. </p>
 
+<p> 2. What did you do and how many hours did you work </p>
+<p> - Constructed Dialogflow </p>
+<p> -Registered my device </p>
+<p> - Added in Credientials </p>
+<p> - Filled out the consent for to register my device with google </p>
+<p - Worked out errors and installed more pip packages </p>
+<p> - Coded most of my project </p>
+
+
+<img width="1372" alt="Screen Shot 2022-04-27 at 8 24 37 AM" src="https://user-images.githubusercontent.com/81450987/165517721-1c46d83e-e531-4ef2-a241-aeb58a635bb7.png">
+<img width="1372" alt="Screen Shot 2022-04-27 at 8 24 50 AM" src="https://user-images.githubusercontent.com/81450987/165517725-4c34086d-4e90-4edc-b484-7cc039128469.png">
+<img width="1372" alt="Screen Shot 2022-04-27 at 8 24 55 AM" src="https://user-images.githubusercontent.com/81450987/165517727-eb79de37-1878-49ae-9cc6-f88a4924cca3.png">
 
