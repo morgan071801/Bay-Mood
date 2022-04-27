@@ -77,6 +77,7 @@ https://user-images.githubusercontent.com/81450987/163078449-d72f6a12-b83c-44cd-
  
   
  <p> However because my idea required so many APIs I ran into a few rabbit hole errors which felt impossible to get past. </p>
+<img width="917" alt="Screen Shot 2022-04-27 at 8 29 55 AM" src="https://user-images.githubusercontent.com/81450987/165518289-99cca694-174f-41bc-a506-1534b7e3ae94.png">
 
  
  <p> Despite following the tutorials below using Dialogflow I was not able to get the front end connected to the back end. </p>
