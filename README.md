@@ -116,12 +116,6 @@ https://drive.google.com/drive/folders/1CyBkyJU6cqTkLMbi-bIq_0T_YEizs3gj?usp=sha
 <p> - Coded most of my project </p>
 
 
-#Milestone 4
-![IMG_6508](https://user-images.githubusercontent.com/81450987/166523279-c8a938de-c697-4b15-90f8-e360f69d88c1.jpeg)
-
-
-<img width="1372" alt="Screen Shot 2022-04-27 at 8 24 50 AM" src="https://u![IMG_6509](https://user-images.githubusercontent.com/81450987/166523292-dde7471c-cac1-4502-82f1-d95e8c9c7557.jpeg)
-ser-images.githubusercontent.com/81450987/165517725-4c34086d-4e90-4edc-b484-7cc039128469.png">
 
 
 <p> Hours Spent: I spent at least 15 hours working towards Milestone 3 (Coding, Debugging, Installing Packages, Constructing Dialogflow ect.) </p>
@@ -129,11 +123,8 @@ ser-images.githubusercontent.com/81450987/165517725-4c34086d-4e90-4edc-b484-7cc0
 # Milestone 4 Goals
 
 <p/> For milestone 4, I started approaching my final MVP by constructing the form </p>
-![IMG_6502](https://user-images.githubusercontent.com/81450987/166523112-f15fa753-0364-43d4-a342-![IMG_6507](https://user-images.githubusercontent.com/81450987/166523123-31faf7fb-eb09-486d-b5b8-bc85cc9d9242.jpeg)
-944ba66b4624.jpeg)
-![IMG_6508](https://user-images.githubusercontent.com/81450987/166523137-39a0244a-22ea-4676-972c-534dd8a4cd33.jpeg)
+![IMG_6509](https://user-images.githubusercontent.com/81450987/166523420-f89d5147-e8da![IMG_6504](https://user-images.githubusercontent.com/81450987/166523455-1f246243-b7ab-4401-acb4-7ffcbbcfaca5.jpeg)
+-4d51-b657-c936870f960a.j![IMG_6508](https://user-images.githubusercontent.com/81450987/166523441-0e2f82d8-92f0-4a72-bf5a-b44ee0c2a13d.jpeg)
+peg)
+![IMG_6502](https://user-images.githubusercontent.com/81450987/166523466-eaf244b6-028d-4e0c-83a0-cacd93d74973.jpeg)
 
-![IMG_6503](https://user-images.githubusercontent.com/81450987/166523067-d7a514ca-4f67-46f4-a45a-899f129987a8.jpeg)
-![IMG_6504](https://user-images.githubusercontent.com/81450987/166523101-448b532e-c0db-4ca1-ae33-54588a5d3c79.jpeg)
-
-![IMG_6505](https://user-images.githubusercontent.com/81450987/166523086-b1584e9e-de82-491a-ab1b-f452496978d0.jpeg)
