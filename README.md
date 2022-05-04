@@ -1,4 +1,4 @@
-# Bay-Mood Milestones
+# Bay-Mood -> Voice Journal Milestones
 
 # Milestone 1 Goals
 <p>1. Finalize Project Description</p>
@@ -127,4 +127,20 @@ https://drive.google.com/drive/folders/1CyBkyJU6cqTkLMbi-bIq_0T_YEizs3gj?usp=sha
 -4d51-b657-c936870f960a.j![IMG_6508](https://user-images.githubusercontent.com/81450987/166523441-0e2f82d8-92f0-4a72-bf5a-b44ee0c2a13d.jpeg)
 peg)
 ![IMG_6502](https://user-images.githubusercontent.com/81450987/166523466-eaf244b6-028d-4e0c-83a0-cacd93d74973.jpeg)
+
+# Creative Statement
+
+<p>I went into this project with the intent to create an emotional tracker, however, after playing around with the concept, I found that the emotional tracker idea was too complex for the time I had to create it, but it also did not have a great balance of uselessness and usefulness. Therefore, I renovated my idea and came up with a voice journal.</p>
+
+<p>The voice journal is useful because it gives users the ability to save their memories, thoughts, and ideas in an electronic journal. Additionally, after creating a journal entry, the device automatically creates a year, month, and day folder, where it stores each recording depending on the date. This feature is useful because it allows users to easily navigate the entries if they decide to break the device apart and insert their SD card into a computer. The voice journal is useless because the user cannot look back to see their entries as easily compared to a regular journal. Instead, they need to break open the device to acquire the mini SD card and then find a converter to listen to the entries.</p>
+
+<p>I built the device using a raspberry pi, speaker, microSD card, push-button, button harness, a few push-offs, a micro USB cable, and a book. I began my creative journey by building the internal system first. This required me to attach the raspberry pi and voice bonnet using the standoffs. After that, I loosened the screws of the screw terminal to insert the speaker wires. While it might be shocking, I had a difficult time trying to find a mini screwdriver to screw in the speaker wires. Finally, after attaching the speakers I completed my last internal construction by connecting the colorful push button and plugging the wires into the voice bonnet.</p>
+
+<p>After finishing the individual internal parts of the device, I pondered the question of whether the speaker component itself served as more of a useful or useless component. In other words, when using the device users of my product can hear their journal entry only once before it is stored in the device forever. This feature is useful because it serves as a feedback mechanism to let the user know what and if they recorded an entry. However, it is useless because it leaves the user&rsquo;s journal entry imperfect and uneditable.</p>
+
+<p>When constructing the speaker I also pondered the question of whether or not I should make the button more useful or if it had the perfect balance of usefulness and useless. In other words, while the button lights up with the color blue to show the user that the device is on, it does not provide feedback to the user when the device records their voice. However, the user receives feedback from the speaker on playback which is both a useless, but unique feature.</p>
+
+<p>Beyond the internal construction, I also created a shell for my product. My goal was to imitate a pop-up book. I did this in the maker space using cardboard, and an old book. First I ripped pages off of the book and hot glue gunned them onto the box. While this might sound simple, it took me a few hours. Afterward, I started to dig into the book with a sharp knife and create a snug square hole for the box to sit in. This process reminded me of my Book History Arts and Culture course where we destroyed books but also talked about the importance of the book&rsquo;s form. Therefore, the display of the device in the book is useful because it helps the user understand the device&rsquo;s purpose. However, the form is useless because it does not benefit the user&rsquo;s usability in any way. Instead, it restrains the user from where they can place the journal in a room because of how much room it takes up compared to a regular journal or smart speaker. Additionally, it cannot close like a regular journal because of its pop-up features.</p>
+
+<p>Overall, I truly enjoyed this project and playing around with the concepts of usefulness and uselessness. I thought it was really cool to see it unravel from an emotional tracker into a voice journal and I am so grateful to have taken this awesome class!!</p>
 
