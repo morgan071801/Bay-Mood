@@ -122,12 +122,39 @@ https://drive.google.com/drive/folders/1CyBkyJU6cqTkLMbi-bIq_0T_YEizs3gj?usp=sha
 
 # Milestone 4 Goals
 
-<p/> For milestone 4, I started approaching my final MVP by constructing the form </p>
-![IMG_6503](https://user-images.githubusercontent.com/81450987/166842450-9c142d90-6022-49bc-91a9-023caa2eb611.jpeg)
-![IMG_6505](https://user-images.githubusercontent.com/81450987/166842462-a868e92b-67b4-4873-8ee6-6c7b1f5802ae.jpeg)
-![IMG_6507](https://user-images.githubusercontent.com/81450987/166842506-d92bddd2-fe09-43c8-912a-563280b40689.jpeg)
+<p> 1. Progress I wanted to make and what you accomplished:</p>
+<p> Create the book form, document progress, and debug my code </p>
 
-![IMG_6502](https://user-images.githubusercontent.com/81450987/166842497-86970b8e-57bd-46fc-adfe-42629b135480.jpeg)
+<p/> For milestone 4, I started approaching my final MVP by constructing the form. I went to the makerspace and spent a few hours hot gluing pages I ripped out of a book onto a cardboard box setup for the raspberry pi </p>
+
+<p> Hours Spent: I spent at least 12 hours working towards Milestone 4 (Building the form in the Makerspace and Debugging) </p>
+
+<p> More specifically, I spent about 4 hours in the makerspace. 4-5 hours in either office hours or in the computer lab on my own and then three hours in class. Additionally, I spent a few hours writing my creative statement. </p>
+
+<p> What was the hardest part? How did you overcome it? What did you learn? </p>
+
+<p> The hardest part was definitely debugging especially since some of the errors did not make since. I overcame these challenges by going to office hours and looking through reddit forms which helped me debug, but also through trial and error.</p>
+
+<p> I used the below as inspiration for creating the book's form</p>
+https://www.etsy.com/listing/510891718/wood-pi-book-case-for-raspberry-pi-3b-3
+https://www.instructables.com/Secret-Book-Case-for-Raspberry-Pi/
+https://www.instructables.com/Secret-Book-Case-for-Raspberry-Pi/
+
+<p>  What did you do and how many hours did you work </p>
+<p> - Built the form of the device </p>
+<p> -Debugged the device </p>
+<p> - Gathered Materials for the form </p>
+<p> - Documented and gathered the final materials for my project </p>
+
+
+
+![IMG_6508](https://user-images.githubusercontent.com/81450987/166842592-26693f7b-9b0f-4a3c-b2d0-2bb640586f91.jpeg)
+![IMG_6509](https://user-images.githubusercontent.com/81450987/166842626-2dc71b1c-14b8-450e-8045-2abc974f314d.jpeg)
+![IMG_6506](https://user-images.githubusercontent.com/81450987/166842663-86b42b15-ef14-42ae-9cb7-8e8ca2b512d3.jpeg)
+
+![IMG_6502](https://user-images.g![Uploading IMG_6501.jpeg…]()
+
+
 
 # Creative Statement
 
