@@ -123,12 +123,14 @@ https://drive.google.com/drive/folders/1CyBkyJU6cqTkLMbi-bIq_0T_YEizs3gj?usp=sha
 # Milestone 4 Goals
 
 <p/> For milestone 4, I started approaching my final MVP by constructing the form </p>
-![IMG_6509](https://user-images.githubusercontent.com/81450987/166523420-f89d5147-e8da![IMG_6504](https://user-images.githubusercontent.com/81450987/166523455-1f246243-b7ab-4401-acb4-7ffcbbcfaca5.jpeg)
--4d51-b657-c936870f960a.j![IMG_6508](https://user-images.githubusercontent.com/81450987/166523441-0e2f82d8-92f0-4a72-bf5a-b44ee0c2a13d.jpeg)
-peg)
-![IMG_6502](https://user-images.githubusercontent.com/81450987/166523466-eaf244b6-028d-4e0c-83a0-cacd93d74973.jpeg)
+![IMG_6503](https://user-images.githubusercontent.com/81450987/166842450-9c142d90-6022-49bc-91a9-023caa2eb611.jpeg)
+![IMG_6505](https://user-images.githubusercontent.com/81450987/166842462-a868e92b-67b4-4873-8ee6-6c7b1f5802ae.jpeg)
+![IMG_6507](https://user-images.githubusercontent.com/81450987/166842506-d92bddd2-fe09-43c8-912a-563280b40689.jpeg)
+
+![IMG_6502](https://user-images.githubusercontent.com/81450987/166842497-86970b8e-57bd-46fc-adfe-42629b135480.jpeg)
 
 # Creative Statement
+
 
 <p>I went into this project with the intent to create an emotional tracker, however, after playing around with the concept, I found that the emotional tracker idea was too complex for the time I had to create it, but it also did not have a great balance of uselessness and usefulness. Therefore, I renovated my idea and came up with a voice journal.</p>
 
