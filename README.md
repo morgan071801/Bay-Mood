@@ -176,7 +176,9 @@ https://www.instructables.com/Secret-Book-Case-for-Raspberry-Pi/
 <p>Beyond the internal construction, I also created a shell for my product. My goal was to imitate a pop-up book. I did this in the maker space using cardboard, and an old book. First I ripped pages off of the book and hot glue gunned them onto the box. While this might sound simple, it took me a few hours. Afterward, I started to dig into the book with a sharp knife and create a snug square hole for the box to sit in. This process reminded me of my Book History Arts and Culture course where we destroyed books but also talked about the importance of the book&rsquo;s form. Therefore, the display of the device in the book is useful because it helps the user understand the device&rsquo;s purpose. However, the form is useless because it does not benefit the user&rsquo;s usability in any way. Instead, it restrains the user from where they can place the journal in a room because of how much room it takes up compared to a regular journal or smart speaker. Additionally, it cannot close like a regular journal because of its pop-up features.</p>
 
 <p>Overall, I truly enjoyed this project and playing around with the concepts of usefulness and uselessness. I thought it was really cool to see it unravel from an emotional tracker into a voice journal and I am so grateful to have taken this awesome class!!</p>
- # Final Project Documentation
+
+
+# Final Project Documentation
  
  <p> Notes:</p>
  <p> -Unfortunately, I was unable to get the file to run continuously on its own due to unknown errors. More specifically when its plugged in it runs on its own only once. After that it requires a manual start. </p>
