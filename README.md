@@ -144,7 +144,7 @@ https://www.etsy.com/listing/510891718/wood-pi-book-case-for-raspberry-pi-3b-3
 https://www.instructables.com/Secret-Book-Case-for-Raspberry-Pi/
 https://www.instructables.com/Secret-Book-Case-for-Raspberry-Pi/
 
-<p>  What did you do? </p>
+<p>  4. What did you do? </p>
 <p> - Built the form of the device </p>
 <p> -Debugged the device </p>
 <p> - Gathered Materials for the form </p>
@@ -156,7 +156,7 @@ https://www.instructables.com/Secret-Book-Case-for-Raspberry-Pi/
 ![IMG_6509](https://user-images.githubusercontent.com/81450987/166842626-2dc71b1c-14b8-450e-8045-2abc974f314d.jpeg)
 ![IMG_6506](https://user-images.githubusercontent.com/81450987/166842663-86b42b15-ef14-42ae-9cb7-8e8ca2b512d3.jpeg)
 
-![IMG_6502](https://user-images.g![Uploading IMG_6501.jpeg…]()
+
 
 
 
@@ -187,3 +187,7 @@ https://user-images.githubusercontent.com/81450987/166847619-e12651ad-865b-4aa4-
 
  <p> Notes:</p>
  <p> -Unfortunately, I was unable to get the file to run continuously on its own due to unknown errors. More specifically when its plugged in it runs on its own only once. After that it requires a manual start. </p>
+ 
+ <p> I wanted the device to be imperfect on the inside and outside. In other words because users cannot edit </p>
+ <p> their entries without destroying the device itself, I wanted its form to also embody the imperfections </p>
+ <p> and messiness of a book </p>
