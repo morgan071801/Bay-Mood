@@ -122,31 +122,35 @@ https://drive.google.com/drive/folders/1CyBkyJU6cqTkLMbi-bIq_0T_YEizs3gj?usp=sha
 
 # Milestone 4 Goals
 
-<p> 1. Progress I wanted to make and what you accomplished:</p>
-<p> Create the book form, document progress, and debug my code </p>
-
 <p/> For milestone 4, I started approaching my final MVP by constructing the form. I went to the makerspace and spent a few hours hot gluing pages I ripped out of a book onto a cardboard box setup for the raspberry pi </p>
 
-<p> Hours Spent: I spent at least 12 hours working towards Milestone 4 (Building the form in the Makerspace and Debugging) </p>
+<p> 1. Progress I wanted to make and what you accomplished:</p>
+<p> -Create the book form </p>
+<p> -Document progress </p>
+<p> Debug my code </p>
+
+<p> 2. Hours Spent: </p>
+<p> I spent at least 12 hours working towards Milestone 4 (Building the form in the Makerspace and Debugging) </p>
 
 <p> More specifically, I spent about 4 hours in the makerspace. 4-5 hours in either office hours or in the computer lab on my own and then three hours in class. Additionally, I spent a few hours writing my creative statement. </p>
 
-<p> What was the hardest part? How did you overcome it? What did you learn? </p>
+<p>3.  What was the hardest part? How did you overcome it? What did you learn? </p>
 
-<p> The hardest part was definitely debugging especially since some of the errors did not make since. I overcame these challenges by going to office hours and looking through reddit forms which helped me debug, but also through trial and error.</p>
+<p> The hardest part was definitely debugging especially since some of the errors did not make since. 
+ <p>I overcame these challenges by going to office hours and looking through reddit forms which helped me debug, but also through trial and error.</p>
 
 <p> I used the below as inspiration for creating the book's form</p>
 https://www.etsy.com/listing/510891718/wood-pi-book-case-for-raspberry-pi-3b-3
 https://www.instructables.com/Secret-Book-Case-for-Raspberry-Pi/
 https://www.instructables.com/Secret-Book-Case-for-Raspberry-Pi/
 
-<p>  What did you do and how many hours did you work </p>
+<p>  What did you do? </p>
 <p> - Built the form of the device </p>
 <p> -Debugged the device </p>
 <p> - Gathered Materials for the form </p>
 <p> - Documented and gathered the final materials for my project </p>
 
-
+<p> See documentation below: </p>
 
 ![IMG_6508](https://user-images.githubusercontent.com/81450987/166842592-26693f7b-9b0f-4a3c-b2d0-2bb640586f91.jpeg)
 ![IMG_6509](https://user-images.githubusercontent.com/81450987/166842626-2dc71b1c-14b8-450e-8045-2abc974f314d.jpeg)
@@ -172,4 +176,7 @@ https://www.instructables.com/Secret-Book-Case-for-Raspberry-Pi/
 <p>Beyond the internal construction, I also created a shell for my product. My goal was to imitate a pop-up book. I did this in the maker space using cardboard, and an old book. First I ripped pages off of the book and hot glue gunned them onto the box. While this might sound simple, it took me a few hours. Afterward, I started to dig into the book with a sharp knife and create a snug square hole for the box to sit in. This process reminded me of my Book History Arts and Culture course where we destroyed books but also talked about the importance of the book&rsquo;s form. Therefore, the display of the device in the book is useful because it helps the user understand the device&rsquo;s purpose. However, the form is useless because it does not benefit the user&rsquo;s usability in any way. Instead, it restrains the user from where they can place the journal in a room because of how much room it takes up compared to a regular journal or smart speaker. Additionally, it cannot close like a regular journal because of its pop-up features.</p>
 
 <p>Overall, I truly enjoyed this project and playing around with the concepts of usefulness and uselessness. I thought it was really cool to see it unravel from an emotional tracker into a voice journal and I am so grateful to have taken this awesome class!!</p>
-
+ # Final Project Documentation
+ 
+ <p> Notes:</p>
+ <p> -Unfortunately, I was unable to get the file to run continuously on its own due to unknown errors. More specifically when its plugged in it runs on its own only once. After that it requires a manual start. </p>
