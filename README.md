@@ -179,6 +179,11 @@ https://www.instructables.com/Secret-Book-Case-for-Raspberry-Pi/
 
 
 # Final Project Documentation
+
  
+
+https://user-images.githubusercontent.com/81450987/166847619-e12651ad-865b-4aa4-be07-b4d343966e4a.mov
+
+
  <p> Notes:</p>
  <p> -Unfortunately, I was unable to get the file to run continuously on its own due to unknown errors. More specifically when its plugged in it runs on its own only once. After that it requires a manual start. </p>
