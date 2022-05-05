@@ -183,11 +183,12 @@ https://www.instructables.com/Secret-Book-Case-for-Raspberry-Pi/
  
 
 https://user-images.githubusercontent.com/81450987/166847619-e12651ad-865b-4aa4-be07-b4d343966e4a.mov
+<img width="1137" alt="Screen Shot 2022-05-05 at 3 59 17 AM" src="https://user-images.githubusercontent.com/81450987/166883342-18701d79-705e-4299-a446-a2e7008bcfc0.png">
 
 
  <p> Notes:</p>
  <p> -Unfortunately, I was unable to get the file to run continuously on its own due to unknown errors. More specifically when its plugged in it runs on its own only once. After that it requires a manual start. </p>
  
  <p> -I wanted the device to be imperfect on the inside and outside. In other words because users cannot edit  their entries without destroying the device itself, I wanted its form to also embody the imperfections </p>
- 
+  <p> - Google API played a big role in attributing to my device's capability to function
  <p> -If I had more time I would work on the internal code a little bit more. I really would want it to run like an alexa without having to continuously plug and un-plug. However, I am super happy with the MVP </p>
